@@ -197,7 +197,7 @@ header input {
 
 .card {
     align-items: center;
-    background-color: #F4F4F4;
+    background-color: #FAFAFA;
     display: flex;
     flex-direction: column;
     gap: 20px;
